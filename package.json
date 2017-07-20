@@ -1,0 +1,27 @@
+{
+  "name": "react-native-timepicker-android",
+  "version": "1.0.0",
+  "description": "A simple react native time picker for android",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirankalyan5/react-native-timepicker-android.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "android",
+    "timepicker",
+    "custom",
+    "picker"
+  ],
+  "author": "KiranKalyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kirankalyan5/react-native-timepicker-android/issues"
+  },
+  "homepage": "https://github.com/kirankalyan5/react-native-timepicker-android#readme"
+}
